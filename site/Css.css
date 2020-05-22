@@ -1,0 +1,49 @@
+div{
+  color : green;
+  text-align: center;
+  font-weight: bold;
+  font-style: italic;
+  font-family: cursive;
+
+}
+
+div{
+  color : maroon;
+}
+
+ul {
+  color : blue;
+  text-align: center;
+  font-family: cursive;
+}
+
+section article.art{
+  color : red;
+
+}
+
+section  #my{
+  color : green;
+  text-align: center;
+  font-family: cursive;
+  font-weight: bold;
+}
+button{
+  background-color : #87ceeb;
+  color : maroon;
+  text-align : center;
+  border : red 1px solid;
+  border-radius: 5px;
+  font-size: 20px;
+  cursor: pointer;
+
+}
+
+button:hover,button:active{
+  color : blue;
+
+}
+.button{
+  text-align: center;
+  margin-top: 7px;
+}

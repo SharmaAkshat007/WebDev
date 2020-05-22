@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset = "utf-8">
+    <title>Media Queries</title>
+    <style>
+      div{
+        font-style : italic;
+        font-family : cursive;
+        font-weight : bold;
+        font-size : 200%;
+        text-align : center;
+      }
+      #p1{
+        background-color : green;
+        height : 500px;
+        width : 500px;
+      }
+      #p2{
+        background-color : maroon;
+        height : 200px;
+        width : 200px;
+      }
+
+      @media (min-width : 997px) and (max-width : 1199px){
+        div{
+          font-size : 100%;
+        }
+        #p1{
+          height : 250px;
+          width : 250px;
+        }
+        #p2{
+          height : 100px;
+          width : 100px;
+        }
+      }
+
+      @media (min-width : 1200px){
+        div{
+          font-size = 300%
+        }
+
+        #p1{
+          height : 750px;
+          width : 750px;
+        }
+        #p2{
+          height : 300px;
+          width : 300px;
+        }
+      }
+    </style>
+</head>
+<body>
+
+<div>Media Queries</div>
+<p id = "p1"></p>
+<p id = "p2"></p>
+
+
+</body>
+</html>
