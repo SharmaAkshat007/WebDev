@@ -1,0 +1,54 @@
+*{
+  box-sizing: border-box;
+}
+
+h1{
+  text-align: center;
+  margin-top : 20px;
+  margin-bottom : 50px;
+
+}
+h2{
+
+  width : 120px;
+  text-align: center;
+  float : right;
+}
+.matter{
+
+  border : 2px black solid;
+  margin : 20px;
+  background-color: lightgray;
+
+
+
+}
+
+#item1{
+
+  background-color: #FFB6C1;
+  border: 2px black solid;
+  padding : 2px;
+
+
+}
+#item2{
+
+background-color: #FF6347;
+border: 2px black solid;
+padding : 2px;
+
+}
+#item3{
+
+background-color: #ffff00;
+border: 2px black solid;
+padding : 2px;
+
+
+}
+p{
+  text-align: justify;
+  padding: 20px;
+  clear : right;
+}
