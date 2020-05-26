@@ -16,7 +16,7 @@ body{
   text-align: left;
 }
 .divHeader h1{
-  font-size : 8rem;
+
   margin-top : 10%;
 
 }
@@ -96,7 +96,7 @@ body{
   font-size: 120%;
 }
 #new h1 {
-  font-size: 6rem;
+  
 }
 #secondrow{
   text-align: center;
@@ -139,12 +139,12 @@ body{
 #sixthcontent{
   background-color: lightgray;
   margin-top: 30px;
-  margin-bottom: 50px;
+  margin-bottom: 30px;
 }
 
 #seventhcontent{
   background-color: lightgray;
-  margin-bottom: 50px;
+  margin-bottom: 30px;
   margin-top: 30px;
 }
 #firstcontent:hover{
