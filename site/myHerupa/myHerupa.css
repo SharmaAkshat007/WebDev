@@ -17,10 +17,11 @@ body{
 }
 .divHeader h1{
   font-size : 500%;
+  margin-top : 10%;
 }
 .divHeader{
   text-align: center;
-  margin-top : 10%;
+
 
 }
 .divHeader a{
@@ -28,14 +29,18 @@ body{
   text-decoration: none;
 
 }
+.divHeader nav{
+  margin-bottom: 100px;
+}
 
 #firstrow{
   background-color: white;
-  margin-top : 50px;
+
   cursor : pointer;
   font-size: 30px
 
 }
+
 #first:hover,#fisrt:active{
 
   background-color: #99ebff;
@@ -105,41 +110,41 @@ body{
 }
 #firstcontent{
   background-color: lightgray;
-  margin-top: 20px;
+  margin-top: 30px;
 
 }
 
 
 #secondcontent{
   background-color: lightgray;
-  margin-top: 20px;
+  margin-top: 30px;
 }
 
 #thirdcontent{
   background-color: lightgray;
-  margin-top: 20px;
+  margin-top: 30px;
 }
 
 #fourthcontent{
   background-color: lightgray;
-  margin-top: 20px;
+  margin-top: 30px;
 }
 
 #fifthcontent{
   background-color: lightgray;
-  margin-top: 20px;
+  margin-top: 30px;
 }
 
 #sixthcontent{
   background-color: lightgray;
-  margin-top: 20px;
-  margin-bottom: 20px;
+  margin-top: 30px;
+  margin-bottom: 50px;
 }
 
 #seventhcontent{
   background-color: lightgray;
-  margin-bottom: 20px;
-  margin-top: 20px;
+  margin-bottom: 50px;
+  margin-top: 30px;
 }
 #firstcontent:hover{
   background-color: #E8E8E8;
