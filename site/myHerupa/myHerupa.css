@@ -1,6 +1,6 @@
 *{
   box-sizing: border-box;
-  margin: 0; 
+  margin: 0;
   padding : 0;
 }
 body{
@@ -16,7 +16,7 @@ body{
   text-align: left;
 }
 .divHeader h1{
-  font-size : 400%;
+  font-size : 500%;
 }
 .divHeader{
   text-align: center;
