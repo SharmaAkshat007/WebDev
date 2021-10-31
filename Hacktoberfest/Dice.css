@@ -1,0 +1,49 @@
+:root{
+    font-family: 'Architects Daughter', cursive;
+    color:#00EAD3;
+}    
+
+body{
+    background-color: #082032;
+}
+
+.box {
+    height: 15rem;
+    width: 15rem;
+    max-width: 15rem;
+    border-radius: 1.5rem;
+    border: 1px solid black;
+    background-color: #FF2442;
+    margin: auto;
+}
+
+
+.nav table .ans span{
+    position: absolute; 
+    text-align: center;
+    font-size: 6rem;
+    padding:3rem 0rem 0rem 7rem;
+}
+.nav table .ans1 span{
+    position: absolute; 
+    text-align: center;
+    font-size: 6rem;
+    padding:3rem 0rem 0rem 7rem;
+}
+
+.header{
+    text-align: center;
+    font-size: 2.5rem;;
+}
+
+.nav table{
+    
+    margin: auto;
+    font-size: 2rem;
+    height: 400px ;
+    width: 600px;
+}
+
+.footer {
+    text-align: center;
+}
